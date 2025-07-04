@@ -1,0 +1,4 @@
+sreamlit 
+scikit-learn
+pandas
+joblib
